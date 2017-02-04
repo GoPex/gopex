@@ -1,0 +1,27 @@
+baseurl = "https://gopex.be/"
+title = "GoPex"
+languageCode = "en-us"
+pygmentsuseclasses = true
+
+theme = "beautifulhugo"
+
+[Params]
+    logo = "img/penguin.jpeg"
+    subtitle = "The pex playground"
+
+[Author]
+    name = "Albin Gilles"
+    email = "agilles.albin@gmail.com"
+    facebook = "albin.gilles"
+    github = "AlbinOS"
+    linkedin = "in/albingilles"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about"
+    weight = 2

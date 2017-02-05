@@ -14,6 +14,6 @@ I love mountain biking and my biggest passion is to build _self-sufficient syste
 
 My major interests in computer sciences are server-side technology, massive scalability and DevOps tools. I also touch time to time on front web application.
 
-Check out my [manifesto](/manifesto) if you want to know more about my motivations, my approach of Computer Sciences, and what exactly is the _GoPex_ initiative.
+Check out my [manifesto](/page/manifesto) if you want to know more about my motivations, my approach of Computer Sciences, and what exactly is the _GoPex_ initiative.
 
 This blog will serve for code samples and personal project presentation. In its global scope, it will present my journey a random developer to a _DevOps_ capable Software Engineer. __From boring to awesome__.

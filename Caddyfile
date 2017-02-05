@@ -1,0 +1,7 @@
+:2015 {
+  log stdout
+  errors stderr
+
+  tls off
+  root /public/
+}
